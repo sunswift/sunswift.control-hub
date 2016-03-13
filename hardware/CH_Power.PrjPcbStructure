@@ -1,0 +1,4 @@
+Record=SheetSymbol|SourceDocument=TopLevel.SchDoc|Designator=U_5VOut|SchDesignator=U_5VOut|FileName=5VOut.SchDoc|SymbolType=Normal|RawFileName=5VOut.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol
+Record=SheetSymbol|SourceDocument=TopLevel.SchDoc|Designator=U_12to5VSwitcher-3A-Power|SchDesignator=U_12to5VSwitcher-3A-Power|FileName=12to5VSwitcher-3A-Power.SCHDOC|SymbolType=Normal|RawFileName=12to5VSwitcher-3A-Power.SCHDOC|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol
+Record=SheetSymbol|SourceDocument=TopLevel.SchDoc|Designator=U_12VOut|SchDesignator=U_12VOut|FileName=12VOut.SchDoc|SymbolType=Normal|RawFileName=12VOut.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol
+Record=TopLevelDocument|FileName=TopLevel.SchDoc
